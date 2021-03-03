@@ -1,0 +1,2 @@
+C:\Users\Ahmed\source\repos\10YearsSalary\Debug\10YearsSalary.exe
+C:\Users\Ahmed\source\repos\10YearsSalary\Debug\10YearsSalary.pdb
